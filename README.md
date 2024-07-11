@@ -9,4 +9,10 @@ A state of the art program that displays shapes bouncing on a panel.
 - Can nest shapes inside of other shapes!
 - Awesome GUI!
 
+## Usage
+Clone the repo, and start the program w/ 
+```
+java a3.java
+```
+
 
