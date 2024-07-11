@@ -10,7 +10,7 @@ A state of the art program that displays shapes bouncing on a panel.
 - Awesome GUI!
 
 ## Usage
-Clone the repo, and start the program w/ 
+Clone the repo, and start the program with:
 ```
 java a3.java
 ```
